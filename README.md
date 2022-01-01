@@ -1,11 +1,11 @@
 # Data-Visualization-Project
 
 
-**Project Name : Crime Analysis**
+**PROJECT NAME : CRIME ANALYSIS**
 
   The main aim of the project was to analyze various crime data in the hopes of finding key insights or trends that can potentially increase awareness about crime levels to many different groups of people. 
 
-**Keywords**
+**KEYWORDS**
 
   Crime Analysis; Data Visualization; United States cities
 
