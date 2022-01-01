@@ -55,4 +55,6 @@ Below is a list of use cases for the crime data project can be directly applied 
   6.The locations which have become crime prone recently.
   
   
-  <img width="1129" alt="Screen Shot 2021-12-09 at 9 59 28 AM" src="https://user-images.githubusercontent.com/96957940/147861582-73924f6d-3827-40e9-b366-18225bd292b7.png">
+Below are the screenshots of the crime visualization that is created as part of the project:
+<img width="240" alt="Picture1" src="https://user-images.githubusercontent.com/96957940/147861692-a59d84dc-d650-4f44-b144-77bb6569d0e2.png">
+
