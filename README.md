@@ -12,7 +12,9 @@
  **TOOLS AND TECHNOLOGIES**
  
  1.Python 
+ 
  2.Tableau
+ 
  3.MS Office Suite
 
 
@@ -35,10 +37,15 @@
 
 Below is a list of use cases for the crime data project can be directly applied to.
   1.The Report of time of the day along with the type of the crime when the rate is high.
+  
   2.To determine the periods or events of the year during which the crime is high.
+  
   3.Profile of the victims that are targeted for specific areas for specific types of crime.
+  
   4.Correlation of the victim profile, type of crime, location and time of the crime.
+  
   5.Commonly used weapons specific to crime.
+  
   6.The locations which have become crime prone recently.
  
 
