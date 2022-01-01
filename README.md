@@ -74,3 +74,7 @@ Below are the screenshots of the crime visualization that is created as part of 
 
 <img width="996" alt="Screen Shot 2022-01-01 at 4 52 11 PM" src="https://user-images.githubusercontent.com/96957940/147861777-f4445c0f-bcec-43f8-817b-ce39127237a4.png">
 
+**DATA SOURCES and TABLEAU DASHBOARDS**
+
+[Data Viz Project.zip](https://github.com/Sruti15/Data-Visualization-Project/files/7798328/Data.Viz.Project.zip)
+
