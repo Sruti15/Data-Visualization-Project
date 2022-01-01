@@ -57,10 +57,20 @@ Below is a list of use cases for the crime data project can be directly applied 
   
 Below are the screenshots of the crime visualization that is created as part of the project:
 
-1. Choropleth Map : ( California Crime as per county:)
+1. California Crime as per county:
 
 <img width="982" alt="Screen Shot 2022-01-01 at 4 51 01 PM" src="https://user-images.githubusercontent.com/96957940/147861736-3a2b307c-8b06-41d3-98cb-6ba940e8fe50.png">
 
 
+2. Los Angeles Crime : Over the years 
 
+<img width="983" alt="Screen Shot 2022-01-01 at 4 51 35 PM" src="https://user-images.githubusercontent.com/96957940/147861763-77f4cf3f-7ed3-4938-8080-e510620ba1c7.png">
+
+3. Victim Profile 
+
+<img width="990" alt="Screen Shot 2022-01-01 at 4 51 57 PM" src="https://user-images.githubusercontent.com/96957940/147861767-5f50a8ca-7a99-4fbc-a4ea-b634ed33501f.png">
+
+4. Weapons and Premises
+
+<img width="996" alt="Screen Shot 2022-01-01 at 4 52 11 PM" src="https://user-images.githubusercontent.com/96957940/147861777-f4445c0f-bcec-43f8-817b-ce39127237a4.png">
 
