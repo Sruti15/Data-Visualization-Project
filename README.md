@@ -21,10 +21,15 @@
 **INTRODUCTION**
 
   Crime is an activity that happens around the world each and every day whether you know it or not. For example, the U.S. crime rate per 100,000 people for aggravated assault was 250.2 whereas for larceny/theft it was about 1,550 (Pew Research Center) People tend to disregard crime as something that occurs unless they are directly affected by it. Our team hopes to increase crime awareness at least in the United States through the answering of a few key questions. These questions are as follows:
+  
   What are the differences and similarities in crime trends between different cities?
+  
   Are some cities better at handling different types of crime?
+  
   How has crime affected people’s lives?
+  
   What is the profile of crime victims?
+  
   What time of the day is a crime more likely to occur?
   
 **DATA SOURCES**
@@ -36,6 +41,7 @@
 **USE CASES**
 
 Below is a list of use cases for the crime data project can be directly applied to.
+
   1.The Report of time of the day along with the type of the crime when the rate is high.
   
   2.To determine the periods or events of the year during which the crime is high.
