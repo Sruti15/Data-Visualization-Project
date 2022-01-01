@@ -3,11 +3,17 @@
 
 **PROJECT NAME : CRIME ANALYSIS**
 
-  The main aim of the project was to analyze various crime data in the hopes of finding key insights or trends that can potentially increase awareness about crime levels to many different groups of people. 
+  The main aim of the project was to analyze various crime data in the hopes of finding key insights or trends that can potentially increase awareness about crime levels to many different groups of people. This is part of the data visualization project where we have used the crime data and found various data visualizations on the usecases to provide the people with better understanding and insights of the crime reports.
 
 **KEYWORDS**
 
   Crime Analysis; Data Visualization; United States cities
+  
+ **TOOLS AND TECHNOLOGIES**
+ 
+ 1.Python 
+ 2.Tableau
+ 3.MS Office Suite
 
 
 **INTRODUCTION**
@@ -25,4 +31,14 @@
   
   URL: https://catalog.data.gov/dataset/crime-data-from-2010-to-2019
   
-  
+**USE CASES**
+
+Below is a list of use cases for the crime data project can be directly applied to.
+  1.The Report of time of the day along with the type of the crime when the rate is high.
+  2.To determine the periods or events of the year during which the crime is high.
+  3.Profile of the victims that are targeted for specific areas for specific types of crime.
+  4.Correlation of the victim profile, type of crime, location and time of the crime.
+  5.Commonly used weapons specific to crime.
+  6.The locations which have become crime prone recently.
+ 
+
